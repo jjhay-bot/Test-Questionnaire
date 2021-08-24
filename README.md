@@ -1,25 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Test-Questionnaire
+TITLE: Sample Test Questionnaire project,
+PREVIEW: https://raw.githubusercontent.com/jjhay-bot/Test-Questionnaire/1ce9597200a58b174a1f15ab0dfffc2c43265bc7/app/assets/images/test%20questionnaire%20preview.png
